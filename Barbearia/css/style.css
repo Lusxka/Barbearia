@@ -35,7 +35,6 @@ header a {
 .links {
     display: flex;
     list-style-type: none;
-
 }
 
 .links li {
@@ -48,7 +47,6 @@ header a {
     background-color: rgb(206, 202, 169);
     color: black;
     text-align: center;
-
 }
 
 .btn_cad {
@@ -124,7 +122,6 @@ main {
     border-radius: 30px;
     background-color: #77B2D8;
     opacity: 0.9;
-
 }
 
 .sub_servicos p {
@@ -145,8 +142,7 @@ main {
     padding-top: 150px;
     padding-bottom: 150px;
     display: flex;
-    margin-left: 45px;
-    
+    margin-left: 45px;   
 }
 
 .sobre img{
@@ -192,5 +188,4 @@ footer a{
     font-size: 15px;
     font-family: 'Courier New', Courier, monospace;
     text-decoration: none;
-    padding:  0px; /* Reduzir espaçamento interno */
 }
